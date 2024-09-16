@@ -6,6 +6,174 @@
     "configurations": [
         {
             "type": "java",
+            "name": "mergetwosortedarray",
+            "request": "launch",
+            "mainClass": "arrayyoutube.mergetwosortedarray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Mergetwosortedarray",
+            "request": "launch",
+            "mainClass": "FourteenOIXBinary.Mergetwosortedarray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "maxminarray",
+            "request": "launch",
+            "mainClass": "arrayyoutube.maxminarray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "SegregateZerosOnes",
+            "request": "launch",
+            "mainClass": "arrayyoutube.SegregateZerosOnes",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Insertion",
+            "request": "launch",
+            "mainClass": "arrayyoutube.Insertion",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Deletion",
+            "request": "launch",
+            "mainClass": "arrayyoutube.Deletion",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Commonelementthreepointer",
+            "request": "launch",
+            "mainClass": "arrayyoutube.Commonelementthreepointer",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Commonelemtsinthreeesortedarray",
+            "request": "launch",
+            "mainClass": "arrayyoutube.Commonelemtsinthreeesortedarray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "CountPairs",
+            "request": "launch",
+            "mainClass": "arrayyoutube.CountPairs",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "duplicatearray",
+            "request": "launch",
+            "mainClass": "arrayyoutube.duplicatearray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "duplicatearray",
+            "request": "launch",
+            "mainClass": "duplicatearray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "RotatedArray",
+            "request": "launch",
+            "mainClass": "FourteenOIXBinary.RotatedArray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "FindFirstandLast",
+            "request": "launch",
+            "mainClass": "FourteenOIXBinary.FindFirstandLast",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Infintenumber",
+            "request": "launch",
+            "mainClass": "FourteenOIXBinary.Infintenumber",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Smallest",
+            "request": "launch",
+            "mainClass": "FourteenOIXBinary.Smallest",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Floor",
+            "request": "launch",
+            "mainClass": "FourteenOIXBinary.Floor",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Ceiling",
+            "request": "launch",
+            "mainClass": "FourteenOIXBinary.Ceiling",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "OrderAgnosticBS",
+            "request": "launch",
+            "mainClass": "FourteenOIXBinary.OrderAgnosticBS",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "FourteenOIXBinary.BinarySearch",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "reveserarr",
+            "request": "launch",
+            "mainClass": "Array.reveserarr",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Search2D",
+            "request": "launch",
+            "mainClass": "Array.Search2D",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "FindMin",
+            "request": "launch",
+            "mainClass": "Array.FindMin",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "StringSearch",
+            "request": "launch",
+            "mainClass": "Array.StringSearch",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "LinearSearch",
+            "request": "launch",
+            "mainClass": "Array.LinearSearch",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
             "name": "Reversearray",
             "request": "launch",
             "mainClass": "Array.Reversearray",

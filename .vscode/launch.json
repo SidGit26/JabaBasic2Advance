@@ -6,6 +6,195 @@
     "configurations": [
         {
             "type": "java",
+            "name": "RealInherit",
+            "request": "launch",
+            "mainClass": "OOPS.RealInherit",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Inheritance",
+            "request": "launch",
+            "mainClass": "OOPS.Inheritance",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "ConExam",
+            "request": "launch",
+            "mainClass": "OOPS.ConExam",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "ConstructorDemo",
+            "request": "launch",
+            "mainClass": "OOPS.ConstructorDemo",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Constructordemo",
+            "request": "launch",
+            "mainClass": "OOPS.Constructordemo",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "OOps",
+            "request": "launch",
+            "mainClass": "OOPS.OOps",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "First",
+            "request": "launch",
+            "mainClass": "OOPS.First",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "OOPS.first",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Selection",
+            "request": "launch",
+            "mainClass": "Sorting.Selection",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Bubble",
+            "request": "launch",
+            "mainClass": "Sorting.Bubble",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "pattern7",
+            "request": "launch",
+            "mainClass": "Pattern.pattern7",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "pattern6",
+            "request": "launch",
+            "mainClass": "Pattern.pattern6",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "pattern5",
+            "request": "launch",
+            "mainClass": "Pattern.pattern5",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "pattern4",
+            "request": "launch",
+            "mainClass": "Pattern.pattern4",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Secondpattern",
+            "request": "launch",
+            "mainClass": "Pattern.Secondpattern",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Pattern1",
+            "request": "launch",
+            "mainClass": "Pattern.Pattern1",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "firstpattern",
+            "request": "launch",
+            "mainClass": "Pattern.firstpattern",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Reversearray",
+            "request": "launch",
+            "mainClass": "arrayyoutube.Reversearray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Solution",
+            "request": "launch",
+            "mainClass": "LeetcodeSOln.Solution",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Main",
+            "request": "launch",
+            "mainClass": "Stringcheck.Main",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "SB",
+            "request": "launch",
+            "mainClass": "Stringcheck.SB",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Performance",
+            "request": "launch",
+            "mainClass": "Stringcheck.Performance",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Preety",
+            "request": "launch",
+            "mainClass": "Stringcheck.Preety",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Output",
+            "request": "launch",
+            "mainClass": "Stringcheck.Output",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Comparison",
+            "request": "launch",
+            "mainClass": "Stringcheck.Comparison",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Stringcheck",
+            "request": "launch",
+            "mainClass": "Stringcheck",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "MinmeleinSRarray",
+            "request": "launch",
+            "mainClass": "arrayyoutube.MinmeleinSRarray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
             "name": "mergetwosortedarray",
             "request": "launch",
             "mainClass": "arrayyoutube.mergetwosortedarray",

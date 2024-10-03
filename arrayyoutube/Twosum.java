@@ -1,6 +1,6 @@
 package arrayyoutube;
 
-public class TWOSUM {
+public class Twosum {
     public static void main(String[] args) {
         
     }

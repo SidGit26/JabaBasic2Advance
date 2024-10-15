@@ -6,6 +6,349 @@
     "configurations": [
         {
             "type": "java",
+            "name": "SumofArray",
+            "request": "launch",
+            "mainClass": "NQTPREP.SumofArray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "seclandsmall",
+            "request": "launch",
+            "mainClass": "NQTPREP.seclandsmall",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "lararray",
+            "request": "launch",
+            "mainClass": "NQTPREP.lararray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "smallest",
+            "request": "launch",
+            "mainClass": "NQTPREP.smallest",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "arraayfreq",
+            "request": "launch",
+            "mainClass": "NQTPREP.arraayfreq",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "array1",
+            "request": "launch",
+            "mainClass": "Recursion.array1",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "Recursion.ARRAYREC.Recursion.ARRAYREC.Recursion.ARRAYREC.first",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "first",
+            "request": "launch",
+            "mainClass": "first",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "ReplacedzerosM2",
+            "request": "launch",
+            "mainClass": "NQTPREP.ReplacedzerosM2",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceZeroM2",
+            "request": "launch",
+            "mainClass": "NQTPREP.ReplaceZeroM2",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "ReplaceZeros",
+            "request": "launch",
+            "mainClass": "NQTPREP.ReplaceZeros",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "CountZeros",
+            "request": "launch",
+            "mainClass": "Recursion.CountZeros",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "Recursion.Reverse",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "factorial",
+            "request": "launch",
+            "mainClass": "Recursion.factorial",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Fibonacci",
+            "request": "launch",
+            "mainClass": "NQTPREP.Fibonacci",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "fiboo",
+            "request": "launch",
+            "mainClass": "NQTPREP.fiboo",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "MaxMin",
+            "request": "launch",
+            "mainClass": "NQTPREP.MaxMin",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "REVdigit",
+            "request": "launch",
+            "mainClass": "NQTPREP.REVdigit",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "TUF",
+            "request": "launch",
+            "mainClass": "NQTPREP.TUF",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Greatoftwo",
+            "request": "launch",
+            "mainClass": "NQTPREP.Greatoftwo",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "GP",
+            "request": "launch",
+            "mainClass": "NQTPREP.GP",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "AP",
+            "request": "launch",
+            "mainClass": "NQTPREP.AP",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "SumfirstN",
+            "request": "launch",
+            "mainClass": "NQTPREP.SumfirstN",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Armstrong",
+            "request": "launch",
+            "mainClass": "NQTPREP.Armstrong",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Rev",
+            "request": "launch",
+            "mainClass": "Rev",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Fibbo",
+            "request": "launch",
+            "mainClass": "Fibbo",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "aquarerroot",
+            "request": "launch",
+            "mainClass": "NQTPREP.aquarerroot",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "CountnumberSTRING",
+            "request": "launch",
+            "mainClass": "NQTPREP.CountnumberSTRING",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "CONSTRING",
+            "request": "launch",
+            "mainClass": "NQTPREP.CONSTRING",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "ReverseWordsWithForLoop",
+            "request": "launch",
+            "mainClass": "NQTPREP.ReverseWordsWithForLoop",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Reverse",
+            "request": "launch",
+            "mainClass": "NQTPREP.Reverse",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Removespace",
+            "request": "launch",
+            "mainClass": "NQTPREP.Removespace",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "removevowel",
+            "request": "launch",
+            "mainClass": "NQTPREP.removevowel",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Countcv",
+            "request": "launch",
+            "mainClass": "NQTPREP.Countcv",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Twoispalin",
+            "request": "launch",
+            "mainClass": "NQTPREP.Twoispalin",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "StringPalindrome",
+            "request": "launch",
+            "mainClass": "NQTPREP.StringPalindrome",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Oncehub",
+            "request": "launch",
+            "mainClass": "NQTPREP.Oncehub",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Primeornot",
+            "request": "launch",
+            "mainClass": "NQTPREP.Primeornot",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Palindrome",
+            "request": "launch",
+            "mainClass": "NQTPREP.Palindrome",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Frewquncy",
+            "request": "launch",
+            "mainClass": "NQTPREP.Frewquncy",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Revaaray",
+            "request": "launch",
+            "mainClass": "Recursion.Revaaray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Revaaray",
+            "request": "launch",
+            "mainClass": "NQTPREP.Revaaray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "SmallestSecond",
+            "request": "launch",
+            "mainClass": "NQTPREP.SmallestSecond",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "FindSecondSmallestSecondLargestElementinnarray",
+            "request": "launch",
+            "mainClass": "NQTPREP.FindSecondSmallestSecondLargestElementinnarray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "small1",
+            "request": "launch",
+            "mainClass": "NQTPREP.small1",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Smallestarray",
+            "request": "launch",
+            "mainClass": "NQTPREP.Smallestarray",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Pracrce",
+            "request": "launch",
+            "mainClass": "Recursion.Pracrce",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "BinarySearch",
+            "request": "launch",
+            "mainClass": "Recursion.BinarySearch",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
+            "name": "Fibon",
+            "request": "launch",
+            "mainClass": "Recursion.Fibon",
+            "projectName": "Java B2A"
+        },
+        {
+            "type": "java",
             "name": "Firstrecursiion",
             "request": "launch",
             "mainClass": "Recursion.Firstrecursiion",
